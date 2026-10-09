@@ -206,14 +206,10 @@ function App() {
             <div className="service-grid">
               {visibleServices.map((service, i) => (
                 <article className="service-card" key={service.title}>
-                  <div className="service-art">
-                    <img src={service.image} alt={service.title} />
-                    <span>{String(servicePage * servicesPerPage + i + 1).padStart(2, "0")}</span>
-                  </div>
                   <div className="service-body">
                     <div className="service-top">
                       <span>{service.short}</span>
-                      <img src="./imagens/logo.png" alt="logo" className="imagelo" />
+                      <span>{String(servicePage * servicesPerPage + i + 1).padStart(2, "0")}</span>
                     </div>
                     <h3>{service.title}</h3>
                     <p>{service.description}</p>
