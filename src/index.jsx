@@ -122,7 +122,7 @@ function App() {
       <header className="header">
         <div className="container nav">
           <button className="brand" onClick={() => scrollTo("inicio")} aria-label="Ir para o início">
-            <img src="./imagens/logo.jpg" alt="Logo da BernaClin" className="brand-mark" />
+            <img src="/imagens/logo.jpg" alt="Logo da BernaClin" className="brand-mark" />
           </button>
 
           <nav className={`nav-links ${menuOpen ? "open" : ""}`}>
@@ -158,7 +158,7 @@ function App() {
               <div className="image-frame hero-photo">
                 <div className="photo-placeholder">
                   <Sparkles size={42}/>
-                  <img src="./imagens/dr.png" alt="Imagem principal da clínica" className="hero-image" />
+                  <img src="/imagens/dr.png" alt="Imagem principal da clínica" className="hero-image" />
                 </div>
               </div>
                <div className="floating-card">
@@ -177,7 +177,7 @@ function App() {
         <section className="section about" id="sobre">
           <div className="container split">
             <div className="section-image portrait-placeholder">
-              <img src="./imagens/clinica.png" alt="Clinica" className="image" />
+              <img src="/imagens/clinica.png" alt="Clinica" className="image" />
               <span className="image-tag">Beleza / Cuidado</span>
             </div>
             <div className="section-copy">
@@ -273,7 +273,7 @@ function App() {
 
       <footer className="footer">
         <div className="container footer-grid">
-          <div><button className="brand footer-brand" onClick={() => scrollTo("inicio")}><img src="./imagens/ber.png" alt="BernacLin" className="brand-mark" /></button><p>Elevate confidence. Enhance beauty.</p></div>
+          <div><button className="brand footer-brand" onClick={() => scrollTo("inicio")}><img src="/imagens/ber.png" alt="BernacLin" className="brand-mark" /></button><p>Elevate confidence. Enhance beauty.</p></div>
           <div className="footer-links"><button onClick={() => scrollTo("servicos")}>Serviços</button><button onClick={() => scrollTo("sobre")}>Sobre Nós</button><button onClick={() => scrollTo("resultados")}>Resultados</button><button onClick={() => scrollTo("contato")}>Contato</button></div>
         </div>
         <div className="container">©2026 Bernardo | Harmonização e Estética Avançada. Todos os direitos reservados.</div>
