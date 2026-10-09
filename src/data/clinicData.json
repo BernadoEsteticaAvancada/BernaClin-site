@@ -3,168 +3,168 @@
     {
       "title": "Aplicação de BOTOX",
       "short": "Botox",
-      "image": "./imagens/botox.png",
+      "image": "/imagens/botox.png",
       "description": "Interrompe a contração muscular, relaxa os músculos responsáveis pelas marcas de expressão e devolve ao rosto um aspecto jovem e descansado.",
       "ideal": "Homens e mulheres que desejam investir em estética, bem-estar e rejuvenescimento."
     },
     {
       "title": "Preenchimento Labial",
       "short": "Preenchimento Labial",
-      "image": "./imagens/preenchimento_labial.jpg",
+      "image": "/imagens/preenchimento_labial.jpg",
       "description": "Aumento do volume labial, melhora do contorno, correção de assimetrias e redução de rugas finas e código de barras.",
       "ideal": "Antes de decidir pelo procedimento, consulte um profissional qualificado para garantir segurança e os melhores resultados."
     },
     {
       "title": "Sculptra",
       "short": "Sculptra",
-      "image": "./imagens/sculptra.jpg",
+      "image": "/imagens/sculptra.jpg",
       "description": "Resultados naturais e duradouros. Dependendo do objetivo e da flacidez, são indicadas 3 sessões no ano, com durabilidade de até 25 meses.",
       "ideal": "Após a aplicação, a vida normal é mantida. A clínica orienta massagens no local para favorecer o resultado."
     },
     {
       "title": "Preenchimento de olheiras",
       "short": "Preenchimento de olheiras",
-      "image": "./imagens/preenchimento_orelhas.png",
+      "image": "/imagens/preenchimento_orelhas.png",
       "description": "Tratamento com ácido hialurônico focado em suavizar o sulco profundo das olheiras e atenuar a aparência de cansaço no olhar.",
       "ideal": "Indicado para quem busca uniformizar o relevo abaixo dos olhos e amenizar sombras profundas. Exige repouso relativo das expressões no dia da aplicação."
     },
     {
       "title": "Preenchimento malar",
       "short": "Preenchimento malar",
-      "image": "./imagens/malar.png",
+      "image": "/imagens/malar.png",
       "description": "Restaura o volume da região das maçãs do rosto, promovendo sustentação facial e um efeito de 'lifting' suave.",
       "ideal": "Ideal para repor o volume perdido com o envelhecimento e definir o contorno superior do rosto. Evite pressionar a área nos primeiros dias."
     },
     {
       "title": "Preenchimento queixo",
       "short": "Preenchimento queixo",
-      "image": "./imagens/queixo.jpg",
+      "image": "/imagens/queixo.jpg",
       "description": "Projeta e projeta o mento (queixo) com ácido hialurônico, melhorando a simetria, o perfil facial e a harmonia do rosto.",
       "ideal": "Perfeito para alinhar o perfil e corrigir a retração do queixo. Aconselha-se evitar alimentos muito duros ou impacto local logo após o procedimento."
     },
     {
       "title": "Preenchimento mandíbula",
       "short": "Preenchimento mandíbula",
-      "image": "./imagens/mandibula.png",
+      "image": "/imagens/mandibula.png",
       "description": "Define e estrutura a linha da mandíbula, proporcionando maior ângulo, demarcação e separação entre o rosto e o pescoço.",
       "ideal": "Indicado para quem deseja um rosto mais estruturado e com ângulos bem definidos. Orienta-se não massagear rigorosamente a área tratada."
     },
     {
       "title": "Preenchimento nariz",
       "short": "Preenchimento nariz",
-      "image": "./imagens/nariz.jpg",
+      "image": "/imagens/nariz.jpg",
       "description": "Conhecido como rinomodelação, corrige pequenas imperfeições no dorso nasal e eleva a ponta do nariz de forma não cirúrgica.",
       "ideal": "Ideal para alinhar a giba nasal e empinar a ponta do nariz. Recomenda-se evitar o uso de óculos pesados nos primeiros dias."
     },
     {
       "title": "Preenchimento temporal",
       "short": "Preenchimento temporal",
-      "image": "./imagens/temporal.jpg",
+      "image": "/imagens/temporal.jpg",
       "description": "Preenche a depressão na região das têmporas, reestruturando a moldura lateral do rosto e devolvendo o volume jovem.",
       "ideal": "Excelente para amenizar o aspecto de rosto 'fundo' na região lateral dos olhos e melhorar o arqueamento das sobrancelhas."
     },
     {
       "title": "Limpeza de pele profunda",
       "short": "Limpeza de pele profunda",
-      "image": "./imagens/L_pele.png",
+      "image": "/imagens/L_pele.png",
       "description": "Procedimento para remoção de cravos, miliuns e impurezas, desobstruindo os poros e promovendo a renovação celular.",
       "ideal": "Indicado para todos os tipos de pele para manter a saúde e o viço. Recomenda-se o uso rigoroso de protetor solar e evitar maquiagem pesada por 24h."
     },
     {
       "title": "Tratamento para manchas do sol",
       "short": "Tratamento para manchas do sol",
-      "image": "./imagens/solrosto.jpg",
+      "image": "/imagens/solrosto.jpg",
       "description": "Conjunto de protocolos focado no clareamento de hiperpigmentações e melanoses causadas pela exposição solar sem proteção.",
       "ideal": "Ideal para uniformizar o tom da pele do rosto e colo. É fundamental evitar a exposição solar direta e usar filtro solar de alto fator."
     },
     {
       "title": "Fios de PDO",
       "short": "Fios de PDO",
-      "image": "./imagens/fiosPDO.png",
+      "image": "/imagens/fiosPDO.png",
       "description": "Fios biodegradáveis aplicados sob a pele que promovem efeito de tração (lifting) e estimulam a produção intensa de colágeno.",
       "ideal": "Perfeito para combate à flacidez e sustentação dos tecidos faciais. Recomenda-se evitar atividades físicas intensas e movimentos faciais exagerados nos primeiros dias."
     },
     {
       "title": "Peeling químico",
       "short": "Peeling químico",
-      "image": "./imagens/quimico.png",
+      "image": "/imagens/quimico.png",
       "description": "Aplicação de ácidos específicos sobre a pele para promover a descamação controlada, clarear manchas e atenuar rugas finas.",
       "ideal": "Indicado para renovação celular profunda, melasma e marcas de acne. Indispensável o uso de protetor solar e não puxar as pelinhas que descamarem."
     },
     {
       "title": "Peeling diamante",
       "short": "Peeling diamante",
-      "image": "./imagens/diamante.jpg",
+      "image": "/imagens/diamante.jpg",
       "description": "Microdermoabrasão mecânica suave que esfolia a camada superficial da pele, melhorando a textura, poros dilatados e o brilho natural.",
       "ideal": "Ideal para quem busca uma pele macia, uniforme e sem cravos superficiais. Procedimento indolor e sem tempo de recuperação longo."
     },
     {
       "title": "Carboxiterapia para olheiras",
       "short": "Carboxiterapia para olheira",
-      "image": "./imagens/carboxiterapia.jpg",
+      "image": "/imagens/carboxiterapia.jpg",
       "description": "Infusão controlada de gás carbônico medicinal que melhora a circulação local e a oxigenação, clareando olheiras vasculares.",
       "ideal": "Indicado para quem sofre com olheiras arroxeadas por má circulação. Costuma necessitar de sessões seriadas para melhores resultados."
     },
     {
       "title": "Lipo de papada enzimática",
       "short": "Lipo de papada enzimática",
-      "image": "./imagens/enzimaticapapada.jpg",
+      "image": "/imagens/enzimaticapapada.jpg",
       "description": "Aplicação de enzimas na região submentoniana que quebram as células de gordura, reduzindo a papada e definindo o contorno da face.",
       "ideal": "Excelente para eliminar a gordura localizada abaixo do queixo sem cirurgia. Podem ocorrer pequenos inchaços locais temporários."
     },
     {
       "title": "Radiofrequência para flacidez facial",
       "short": "Radiofrequência para flacidez facial",
-      "image": "./imagens/radiofrequencia.jpg",
+      "image": "/imagens/radiofrequencia.jpg",
       "description": "Tratamento que gera calor nas camadas profundas da pele, estimulando a contração das fibras existentes e a produção de novo colágeno.",
       "ideal": "Ideal para prevenir e tratar a flacidez leve a moderada, rugas de expressão e perda de firmeza. Procedimento confortável e sem agulhas."
     },
     {
       "title": "Tratamento para Acne",
       "short": "Tratamento para Acne",
-      "image": "./imagens/acne.jpg",
+      "image": "/imagens/acne.jpg",
       "description": "Protocolo direcionado ao controle da oleosidade, redução de processos inflamatórios e combate às bactérias causadoras da acne.",
       "ideal": "Recomendado para peles oleosas e com tendência a espinhas. Exige disciplina com o kit de cuidados home care prescrito pelo profissional."
     },
     {
       "title": "Skinbooster hidratação profunda pele",
       "short": "Skinbooster hidratação profunda pele",
-      "image": "./imagens/Skinbooster.png",
+      "image": "/imagens/Skinbooster.png",
       "description": "Injeções de ácido hialurônico fluido que atuam nas camadas mais profundas da derme, entregando hidratação intensa, brilho e elasticidade.",
       "ideal": "Perfeito para peles desidratadas, opacas ou com linhas finas que não melhoram apenas com cremes tópicos. Garante viço imediato."
     },
     {
       "title": "Microagulhamento",
       "short": "Microagulhamento",
-      "image": "./imagens/Microagulhamento.jpg",
+      "image": "/imagens/Microagulhamento.jpg",
       "description": "Indução percutânea de colágeno por meio de microagulhas, favorecendo a permeação de ativos (drug delivery) e a regeneração cutânea.",
       "ideal": "Excelente para cicatrizes de acne, poros dilatados, manchas e rejuvenescimento. Exige uso rigoroso de protetor solar após a sessão."
     },
     {
       "title": "Sculptra para flacidez facial",
       "short": "Sculptra para flacidez facial",
-      "image": "./imagens/flacidezFacial.png",
+      "image": "/imagens/flacidezFacial.png",
       "description": "Bioestimulador à base de ácido poli-L-láctico que estimula gradualmente a produção natural de colágeno, tratando a flacidez e reestruturando a pele.",
       "ideal": "Indicado para recuperação da firmeza facial a longo prazo, com resultados graduais e durabilidade de até 25 meses. Requer massagens locais orientadas pelo profissional."
     },
     {
       "title": "Bioestimulador de colágeno",
       "short": "Bioestimulador de colágeno",
-      "image": "./imagens/Bioestimulador.png",
+      "image": "/imagens/Bioestimulador.png",
       "description": "Substâncias injetáveis que ativam as células produtoras de colágeno no próprio organismo, devolvendo a densidade e o firmeza da pele.",
       "ideal": "Ideal para combater a flacidez e prevenir o envelhecimento precoce sem adicionar volume excessivo à face."
     },
     {
       "title": "Radiesse para flacidez facial",
       "short": "Radiesse para flacidez facial",
-      "image": "./imagens/Radiesse.png",
+      "image": "/imagens/Radiesse.png",
       "description": "Bioestimulador à base de hidroxiapatita de cálcio que promove um efeito lifting imediato suave e estimula o colágeno de forma contínua.",
       "ideal": "Excelente para restaurar a firmeza e densidade da pele, além de melhorar o contorno facial. Recomenda-se realizar as orientações pós-procedimento."
     },
     {
       "title": "Harmonização facial",
       "short": "Harmonização facial",
-      "image": "./imagens/harmonizacaoFacial.png",
+      "image": "/imagens/harmonizacaoFacial.png",
       "description": "Conjunto de procedimentos estéticos preenchedores e estruturadores combinados para equilibrar as proporções e valorizar a beleza natural do rosto.",
       "ideal": "Indicado para quem busca alinhar a simetria facial completa. O plano de aplicação é totalmente individualizado após avaliação detalhada."
     }
