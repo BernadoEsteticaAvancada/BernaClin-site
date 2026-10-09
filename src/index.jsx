@@ -140,7 +140,7 @@ function App() {
       </header>
 
       <main>
-        <section className="hero" id="inicio">
+        {/*<section className="hero" id="inicio">
           <div className="hero-orb orb-one"></div>
           <div className="hero-orb orb-two"></div>
           <div className="container hero-grid">
@@ -152,10 +152,6 @@ function App() {
                 <button className="button primary" onClick={() => scrollTo("contato")}>Entre em contato <ArrowUpRight size={18}/></button>
                 <button className="button ghost" onClick={() => scrollTo("servicos")}>Conheça os serviços</button>
               </div>
-              <div className="hero-proof">
-                <div className="avatars"><span>1</span><span>2</span><span>3</span><span>+</span></div>
-                <div><strong>+5000</strong><small>Clientes satisfeitos</small></div>
-              </div>
             </div>
 
             <div className="hero-visual">
@@ -165,10 +161,10 @@ function App() {
                   <img src="./imagens/dr.png" alt="Imagem principal da clínica" className="hero-image" />
                 </div>
               </div>
-               {/*<div className="floating-card">
+               <div className="floating-card">
                 <div className="mini-icon"><Star size={17}/></div>
                 <div><strong>10+ anos</strong><span>de experiência</span></div> 
-              </div>*/}
+              </div>
               <div className="vertical-label">BERNACLIN · ESTÉTICA &amp; BELEZA</div>
             </div>
           </div>
@@ -176,7 +172,7 @@ function App() {
 
         <div className="marquee">
           <div>ENHANCE BEAUTY <span>✦</span> ELEVAR A CONFIANÇA <span>✦</span> REALÇAR A BELEZA <span>✦</span> ELEVATE CONFIDENCE <span>✦</span></div>
-        </div>
+        </div>*/}
 
         <section className="section about" id="sobre">
           <div className="container split">
@@ -185,7 +181,7 @@ function App() {
               <span className="image-tag">Beleza / Cuidado</span>
             </div>
             <div className="section-copy">
-              <span className="section-kicker">NOSSA JORNADA</span>
+              {/*<span className="section-kicker">NOSSA JORNADA</span>*/}
               <h2>Beleza que valoriza <em>quem você é.</em></h2>
               <p>Na BernaClin, estamos dedicados a realçar sua beleza natural e aumentar sua autoconfiança. Fundada por profissional experiente, nosso compromisso com a excelência nos tornou um destino de confiança para cuidados com a pele e bem-estar.</p>
               <div className="feature-list">
